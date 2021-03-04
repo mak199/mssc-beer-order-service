@@ -9,6 +9,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class JmsConfig {
 
+    public final  static String VALIDATE_ORDER_QUEUE = "validate-order";
+
     // Serialize message content to json using TextMessage
     @Bean
     public MessageConverter messageConverter(){
