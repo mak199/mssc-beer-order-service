@@ -14,10 +14,13 @@ guru/sfg/brewery/model/CustomerDto$CustomerDtoBuilder.class
 guru/sfg/brewery/model/BeerOrderPagedList.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapper.class
 guru/sfg/brewery/model/OrderStatusUpdate$OrderStatusUpdateBuilder.class
+guru/sfg/beer/order/service/services/BeerOrderManagerImpl.class
 guru/sfg/beer/order/service/services/BeerOrderServiceImpl.class
+guru/sfg/beer/order/service/services/BeerOrderManager.class
 guru/sfg/brewery/model/BeerDto.class
 guru/sfg/beer/order/service/repositories/BeerOrderLineRepository.class
 guru/sfg/beer/order/service/config/TaskConfig.class
+guru/sfg/beer/order/service/SM/BeerOrderStateChangeInterceptor.class
 guru/sfg/beer/order/service/services/TastingRoomService.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperDecorator.class
 guru/sfg/beer/order/service/domain/BeerOrderStatusEnum.class

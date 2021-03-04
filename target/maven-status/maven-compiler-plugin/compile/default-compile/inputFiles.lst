@@ -1,3 +1,4 @@
+/home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/SM/BeerOrderStateChangeInterceptor.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/services/BeerOrderServiceImpl.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/domain/BeerOrder.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/domain/BeerOrderEventEnum.java
@@ -25,6 +26,8 @@
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/bootstrap/BeerOrderBootStrap.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/services/BeerOrderService.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/domain/Customer.java
+/home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/services/BeerOrderManager.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapper.java
+/home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/services/BeerOrderManagerImpl.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/repositories/BeerOrderRepository.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/web/mappers/DateMapper.java
