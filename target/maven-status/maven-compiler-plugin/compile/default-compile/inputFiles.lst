@@ -18,6 +18,7 @@
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/brewery/model/CustomerDto.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/SM/BeerOrderStateMachineConfig.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/SM/actions/ValidateOrderAction.java
+/home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/SM/actions/AllocateOrderRequest.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/BeerOrderServiceApplication.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/brewery/model/events/ValidateOrderRequest.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperDecorator.java
@@ -28,6 +29,7 @@
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/config/TaskConfig.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/services/listeners/ValidateOrderResponseListener.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/bootstrap/BeerOrderBootStrap.java
+/home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/SM/actions/AllocateOrderAction.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/services/BeerOrderService.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/domain/Customer.java
 /home/muhammad/Java/spring/microservices/mssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/services/BeerOrderManager.java

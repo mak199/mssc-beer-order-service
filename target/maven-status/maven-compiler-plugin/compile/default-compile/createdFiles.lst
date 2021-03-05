@@ -6,12 +6,14 @@ guru/sfg/beer/order/service/repositories/CustomerRepository.class
 guru/sfg/beer/order/service/domain/BeerOrder$BeerOrderBuilder.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperImpl_.class
 guru/sfg/brewery/model/events/ValidateOrderRequest.class
+guru/sfg/beer/order/service/SM/actions/AllocateOrderRequest$AllocateOrderRequestBuilder.class
 guru/sfg/brewery/model/BeerOrderPagedList.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapper.class
 guru/sfg/beer/order/service/services/BeerOrderManagerImpl.class
 guru/sfg/beer/order/service/services/BeerOrderServiceImpl.class
 guru/sfg/brewery/model/events/ValidateOrderRequest$ValidateOrderRequestBuilder.class
 guru/sfg/beer/order/service/config/TaskConfig.class
+guru/sfg/beer/order/service/SM/actions/AllocateOrderAction.class
 guru/sfg/beer/order/service/SM/actions/ValidateOrderAction.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperDecorator.class
 guru/sfg/beer/order/service/domain/Customer$CustomerBuilder.class
@@ -20,6 +22,7 @@ guru/sfg/beer/order/service/bootstrap/BeerOrderBootStrap.class
 guru/sfg/beer/order/service/domain/Customer.class
 guru/sfg/beer/order/service/web/mappers/DateMapper.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderMapper.class
+guru/sfg/beer/order/service/SM/actions/AllocateOrderRequest.class
 guru/sfg/beer/order/service/SM/BeerOrderStateMachineConfig.class
 guru/sfg/beer/order/service/config/JmsConfig.class
 guru/sfg/beer/order/service/services/BeerOrderService.class
