@@ -5,10 +5,13 @@ guru/sfg/beer/order/service/domain/BeerOrder.class
 guru/sfg/beer/order/service/repositories/CustomerRepository.class
 guru/sfg/beer/order/service/domain/BeerOrder$BeerOrderBuilder.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperImpl_.class
+guru/sfg/brewery/model/events/AllocateOrderResult$AllocateOrderResultBuilder.class
 guru/sfg/brewery/model/events/ValidateOrderRequest.class
 guru/sfg/beer/order/service/SM/actions/AllocateOrderRequest$AllocateOrderRequestBuilder.class
+guru/sfg/beer/order/service/services/listeners/BeerOrderAllocationResultListener.class
 guru/sfg/brewery/model/BeerOrderPagedList.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapper.class
+guru/sfg/brewery/model/events/AllocationOrderRequest$AllocationOrderRequestBuilder.class
 guru/sfg/beer/order/service/services/BeerOrderManagerImpl.class
 guru/sfg/beer/order/service/services/BeerOrderServiceImpl.class
 guru/sfg/brewery/model/events/ValidateOrderRequest$ValidateOrderRequestBuilder.class
@@ -17,7 +20,7 @@ guru/sfg/beer/order/service/SM/actions/AllocateOrderAction.class
 guru/sfg/beer/order/service/SM/actions/ValidateOrderAction.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperDecorator.class
 guru/sfg/beer/order/service/domain/Customer$CustomerBuilder.class
-guru/sfg/beer/order/service/services/listeners/ValidateOrderResponseListener.class
+guru/sfg/beer/order/service/services/listeners/ValidationResultListener.class
 guru/sfg/beer/order/service/bootstrap/BeerOrderBootStrap.class
 guru/sfg/beer/order/service/domain/Customer.class
 guru/sfg/beer/order/service/web/mappers/DateMapper.class
@@ -29,9 +32,11 @@ guru/sfg/beer/order/service/services/BeerOrderService.class
 guru/sfg/brewery/model/BeerDto$BeerDtoBuilder.class
 guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperImpl.class
 guru/sfg/beer/order/service/services/beer/BeerService.class
+guru/sfg/brewery/model/events/AllocationOrderRequest.class
 guru/sfg/brewery/model/CustomerDto$CustomerDtoBuilder.class
 guru/sfg/brewery/model/OrderStatusUpdate$OrderStatusUpdateBuilder.class
 guru/sfg/beer/order/service/services/BeerOrderManager.class
+guru/sfg/brewery/model/events/AllocateOrderResult.class
 guru/sfg/brewery/model/BeerDto.class
 guru/sfg/beer/order/service/repositories/BeerOrderLineRepository.class
 guru/sfg/beer/order/service/SM/BeerOrderStateChangeInterceptor.class

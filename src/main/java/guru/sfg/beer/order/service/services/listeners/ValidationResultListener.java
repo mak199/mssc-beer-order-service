@@ -16,7 +16,7 @@ import java.util.UUID;
 @Component
 @Data
 @RequiredArgsConstructor
-public class ValidateOrderResponseListener {
+public class ValidationResultListener {
 
     private final BeerOrderManager beerOrderManager;
 
