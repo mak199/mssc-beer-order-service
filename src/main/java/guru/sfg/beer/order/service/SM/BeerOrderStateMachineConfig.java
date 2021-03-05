@@ -20,6 +20,7 @@ import java.util.EnumSet;
 public class BeerOrderStateMachineConfig extends StateMachineConfigurerAdapter<BeerOrderStatusEnum, BeerOrderEventEnum> {
 
     private final Action<BeerOrderStatusEnum, BeerOrderEventEnum> validateOrderAction;
+    // different name of action than class can lead to error
     private final Action<BeerOrderStatusEnum, BeerOrderEventEnum>  allocateOrderAction;
 
     @Override
