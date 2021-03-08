@@ -88,6 +88,7 @@ public class BeerOrderManagerImplIT {
             BeerOrder foundOrder = beerOrderRepository.findById(beerOrder.getId()).get();
 
             assertEquals(BeerOrderStatusEnum.ALLOCATED, foundOrder.getOrderStatus());
+
         });
 
         await().untilAsserted(() -> {
