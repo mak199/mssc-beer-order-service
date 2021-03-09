@@ -17,6 +17,7 @@ public class JmsConfig {
     public static final String ALLOCATE_ORDER_RESPONSE_QUEUE = "allocate-order-response";
     public static final String PICKUP_ORDER_QUEUE = "pickup-order";
     public static final String PICKUP_ORDER_RESPONSE_QUEUE = "pickup-order-response";
+    public static final String DEALLOCATE_ORDER_QUEUE = "deallocate-order";
 
     // Serialize message content to json using TextMessage
     @Bean
