@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.github.sfg-beer-works</groupId>
         <artifactId>sfg-brewery-bom</artifactId>
-        <version>1.0.17</version>
+        <version>1.0.21</version>
     </parent>
 
     <groupId>guru.springframework</groupId>
@@ -17,6 +17,11 @@
     <name>mssc-beer-order-service</name>
 
     <description>MSSC Beer Order Service</description>
+
+    <properties>
+        <docker.image.prefix>sfgbeerworks</docker.image.prefix>
+        <docker.image.name>${project.artifactId}</docker.image.name>
+    </properties>
 
 
     <dependencies>
@@ -44,4 +49,5 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
+
 </project>
