@@ -19,7 +19,7 @@
     <description>MSSC Beer Order Service</description>
 
     <properties>
-        <docker.image.prefix>sfgbeerworks</docker.image.prefix>
+        <docker.image.prefix>mak1995</docker.image.prefix>
         <docker.image.name>${project.artifactId}</docker.image.name>
     </properties>
 
